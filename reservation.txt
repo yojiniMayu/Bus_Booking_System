@@ -1,0 +1,5 @@
+Customer:  jo, Bus Number: 003, Seat Number: 1
+Customer:  sam, Bus Number: 003, Seat Number: 1
+Customer:  jo, Bus Number: 003, Seat Number: 1
+Customer:  sam, Bus Number: 003, Seat Number: 1
+Customer:  Cherry, Bus Number: 003, Seat Number: 1

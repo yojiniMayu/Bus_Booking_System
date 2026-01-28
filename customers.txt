@@ -1,0 +1,12 @@
+XYZ-C 12 , jo,12,dfgd,asds,25
+XYZ-C 2 , sam,456,hdjsj,ssa,30
+XYZ-C 7 , Cherry,789,fsdfd,22,22
+XYZ-C 16 , apple,147,sds,asfs,23
+XYZ-C 17,Grapes,124,dafds,sdsd,27
+XYZ-C 18,Mango,159,fddzs,sdfsd,23
+XYZ-C 19,Melon,236,ad,asfs,26
+XYZ-C 20,Mona,458,sdsa,sadas,23
+XYZ-C 21,Luca,569,fdgf,sfsd,26
+XYZ-C 22,Shala,589,sda,sda,25
+XYZ-C 23,Shaki,587,dgdt,sdf,23
+XYZ-C 24,jo,123,gfd,dsd,25
